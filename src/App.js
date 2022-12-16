@@ -5,7 +5,7 @@ import Greetings from './components/greetings';
 const App = () => (
   <>
     <h2>React + Rails</h2>
-    
+
     <Greetings />
   </>
 );

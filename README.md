@@ -31,10 +31,8 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-  - [Ruby](https://www.ruby-lang.org/en/)
-  - [Ruby on Rails](https://rubyonrails.org/)
-  - [PostgreSQL](https://www.postgresql.org/)
-  - [RSpec](https://rspec.info/)
+  - [React](https://reactjs.org/)
+  - [Redux](https://redux.js.org/)
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -46,29 +44,13 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://render.com/">Render</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[User authentication]**: Users can create an account and log in.
-- **[Transactions]**: Users can create, edit, and delete transactions.
-- **[Categories]**: Users can create, edit, and delete categories.
+- **[Get a random greeting]**: This feature allows users to get a random greeting from the API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,10 +58,6 @@
 <!-- link to presentation -->
 
 - [Live Demo Link](https://transactionkeeper.onrender.com)
-
-## 💻 Presentation link <a name="presentation-link"></a>
-
-- [Presentation link](https://www.loom.com/share/b0641383142b4428bb2a5011f26af2ff)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,9 +70,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Ruby: v3.1.2
-- Rails: v7.0.1
-- PostgreSQL: v14.5
+- [Node](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 
 ### Setup
 
@@ -104,7 +83,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 [Download the ZIP from this location](https://github.com/owusu-desmond/hello-react-front-end/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-- Once the files are on your machine, open the _currencies-rates_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+- Once the files are on your machine, open the _project_ folder in youR [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
 
 ### Install
